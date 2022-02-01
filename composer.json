@@ -1,0 +1,24 @@
+{
+	"name": "adecoder/coordinate",
+	"description": "Distance Calculate and 3rd Party API Services in PHP",
+	"type": "library",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"Adecoder\\Coordinate\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "md-aamroni",
+			"email": "md.aamroni@gmail.com",
+			"role": "Software Engineer",
+			"homepage": "https://md-aamroni.github.io"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {
+		"php": ">=8.0"
+	},
+	"require-dev": {}
+}
